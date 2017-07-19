@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "treinamento.html",
+    "currentPage": "formacao.html",
     "name": "Nexialistas Formação de Consultores",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 99,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -98,53 +98,8 @@
             }
           },
           "title": "CURSO DE FORMAÇÃO <br>DE CONSULTORES <br>EM TREINAMENTO E DESENVOLVIMENTO<br>EM UBERLÂNDIA.<br><br>",
-          "text": "<i><b><span style=\"font-size: 1rem; line-height: 1.5;\">PREPARE-SE PARA EXERCER UMA</span></b><br><b><span style=\"font-size: 1rem; line-height: 1.5;\">DAS FUNÇÕES MAIS BEM </span></b><br><b><span style=\"font-size: 1rem; line-height: 1.5;\">REMUNERADAS</span></b><br></i><b><span style=\"font-size: 1rem; line-height: 1.5;\"><i>DO MERCADO!</i></span></b><br>",
+          "text": "<i><b><span style=\"font-size: 1rem; line-height: 1.5;\">PREPARE-SE PARA EXERCER UMA</span></b><br><b><span style=\"font-size: 1rem; line-height: 1.5;\">DAS FUNÇÕES MAIS BEM </span></b><br><b><span style=\"font-size: 1rem; line-height: 1.5;\">REMUNERADAS</span></b></i><b><span style=\"font-size: 1rem; line-height: 1.5;\"><i>!</i></span></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INSCREVA-SE JÁ!</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "font-size": "32px"
-            },
-            "H3": {
-              "font-size": "32px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "PARA SER CONSULTOR EM TREINAMENTO,&nbsp;<div>NÃO BASTA EXPERIÊNCIA.&nbsp;</div><div>É PRECISO TER TÉCNICA!&nbsp;</div>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content6-1b",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>E é isso que você aprenderá no <b>Curso de Formação de Consultores em Treinamento e Desenvolvimento.</b></p><p>Em um mercado tão instável, as empresas precisam de profissionais que possam ajudá-las a sair da crise.</p><p>Para que isso aconteça, milhares de empresas vêm procurando ajuda de consultores que podem levar sua experiências a valores muito bem remunerados.</p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Antigamente um consultor de treinamento precisava ter muitos anos de experiência e um histórico de conquistas.</span><br></p><p>Agora, a técnica fala mais alto. </p><p>Não perca essa oportunidade e inscreva-se para conhecer os principais passos para se desenvolver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">na profissão.</span></p><p><br></p>"
         },
         {
           "_styles": {
@@ -312,71 +267,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "Chief Creative Officer<div>Responsável por propor as mais inovadoras soluções para as realidades que encontra em nossos clientes.</div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/alberto-160x160.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "ALBERTO ROITMAN",
-              "authorBio": "<br>"
-            },
-            {
-              "text": "Chief Revolution Officer<div>Tem a missão de fazer com que equipes e profissionais sejam transformados por grandiosos processos de mudança.</div>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/anderson-160x160.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "ANDERSON BARS",
-              "authorBio": ""
-            }
-          ],
-          "_anchor": "testimonials1-v",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": "2",
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "FACILITADORES DO TREINAMENTO",
-          "subtitle": "<br>15 anos de experiência em empresas privadas, participando ativamente da elaboração e aplicação de estratégias de unidades de negócio e companhias.&nbsp;Experiência em desenvolvimento e criação de Universidades Corporativas, Academia de Vendas, e desenvolvimento de programas de treinamento nas áreas de consultoria, projetos e liderança.<br>"
         },
         {
           "_tags": [
@@ -572,299 +462,9 @@
         }
       ]
     },
-    "treinamento.html": {
-      "settings": {
-        "title": "Treinamento",
-        "meta_descr": "Informações sobre o que e abordado no curso de formação de consultores em treinamento e desenvolvimento.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-23",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x788.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "O treinamento mais completo para uma das profissões que vem sendo mais requisitadas pelo mercado!",
-          "caption": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content6-22",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Para ser consultor em treinamento, não basta experiência. &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">É preciso ter técnica!</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">E é isso que você aprenderá no </span><b style=\"font-size: 1.07rem; line-height: 1.5;\">Curso de Formação de Consultores em Treinamento e Desenvolvimento.</b></p><p>Em um mercado tão instável, as empresas precisam de profissionais que possam ajudá-las a sair da crise.</p><p>Para que isso aconteça, milhares de empresas vêm&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">procurando ajuda de consultores que podem levar</span></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">sua experiências a valores muito bem remunerados. Antigamente um consultor de treinamento precisava ter muitos anos de experiência e um histórico de conquistas.</span><br></p><p>Agora, a técnica fala mais alto. </p><p>Não perca essa oportunidade e inscreva-se para conhecer os principais passos para se desenvolver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">na profissão.</span></p><p><br></p>"
-        },
-        {
-          "_inherit": "features1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features2",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "text-align": "center"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "features2-24",
-          "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "users",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "Público-Alvo",
-          "subtitle1": "",
-          "caption1": "- Profissionais de RH<br>- Consultores de RH<br>- Interessados na carreira de treinamento e desenvolvimento",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "calendar",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title2": "Cronograma",
-          "subtitle2": "\u001b\u001b\u001b\u001b",
-          "caption2": "Aulas as sextas-feiras das 19h às 22h e aos sábados das 9h às 18h.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title3": "Temas Abordados",
-          "subtitle3": "",
-          "caption3": "- Educação Corporativa<br>- Gestão do Conhecimento<br>- Mercado de Consultoria<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "question",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title4": "Informações",
-          "subtitle4": "",
-          "caption4": "contato.udi@nexialistas.com<br><br>Telefones:<br>(11) 3068-0054<br>(11) 3061-2545",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-28",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.05",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nex-130x128.png",
-              "height": 128,
-              "alt": "Logomarca Nexialistas",
-              "link": "https://nexialistas.com",
-              "title": "Nexialistas Consultoria",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://nexialistas.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"formacao.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"treinamento.html\">TREINAMENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"facilitadores.html\">FACILITADORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
     "facilitadores.html": {
       "settings": {
-        "title": "Treinamento",
+        "title": "Facilitadores",
         "meta_descr": "Informações sobre os instrutores do curso.",
         "header_custom": "",
         "footer_custom": "",
@@ -1080,7 +680,7 @@
               "color": "#232323"
             },
             "SMALL": {
-              "color": "#24b392",
+              "color": "#000000",
               "font-size": "20px"
             },
             ".mbr-section-title": {
@@ -1095,7 +695,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#842e2d",
+            "bgColor": "#eae2de",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -1132,7 +732,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INSCREVA-SE JÁ!</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INSCREVA-SE JÁ!</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1225,6 +825,185 @@
           ],
           "_name": "menu",
           "_anchor": "menu-2h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nex-130x128.png",
+              "height": 128,
+              "alt": "Logomarca Nexialistas",
+              "link": "https://nexialistas.com",
+              "title": "Nexialistas Consultoria",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://nexialistas.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"formacao.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"treinamento.html\">TREINAMENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"facilitadores.html\">FACILITADORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "treinamento.html": {
+      "settings": {
+        "title": "Treinamento",
+        "meta_descr": "Informações sobre o que e abordado no curso de formação de consultores em treinamento e desenvolvimento.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "font-size": "32px"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "PARA SER CONSULTOR EM TREINAMENTO,&nbsp;<div>NÃO BASTA EXPERIÊNCIA.&nbsp;</div><div>É PRECISO TER TÉCNICA!&nbsp;</div>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-2k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>E é isso que você aprenderá no <b>Curso de Formação de Consultores em Treinamento e Desenvolvimento.</b></p><p>Em um mercado tão instável, as empresas precisam de profissionais que possam ajudá-las a sair da crise.</p><p>Para que isso aconteça, milhares de empresas vêm procurando ajuda de consultores que podem levar sua experiências a valores muito bem remunerados.</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Antigamente um consultor de treinamento precisava ter muitos anos de experiência e um histórico de conquistas.</span><br></p><p>Agora, a técnica fala mais alto. </p><p>Não perca essa oportunidade e <b><a href=\"contato.html\" class=\"text-info\">inscreva-se</a> </b>para conhecer os principais passos para se desenvolver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">na profissão.</span></p><p><br></p>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Nexialistas - Consultoria em Treinamento e Desenvolvimento<br>contato@nexialistas.com<br>http://nexialistas.com",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/nexialistas/?fref=ts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCoRaI3FqgCj0vC7khWLLShg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company-beta/10233441/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#efefef!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2q",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.05",
