@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "formacao.html",
+    "currentPage": "treinamento.html",
     "name": "Nexialistas Formação de Consultores",
     "theme": {
       "name": "mobirise3",
@@ -388,11 +388,16 @@
               "color": "#232323"
             },
             "SMALL": {
-              "color": "#24b392",
+              "color": "#000000",
               "font-size": "20px"
             },
             ".mbr-section-title": {
               "color": "#e25041"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "13px"
             }
           },
           "_anchor": "form1-6",
@@ -403,7 +408,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#842e2d",
+            "bgColor": "#eae2de",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -440,7 +445,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INSCREVA-SE JÁ!</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INSCREVA-SE JÁ!</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -578,51 +583,6 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "font-size": "32px"
-            },
-            "H3": {
-              "font-size": "32px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-21",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "PARA SER CONSULTOR EM TREINAMENTO,&nbsp;<div>NÃO BASTA EXPERIÊNCIA.&nbsp;</div><div>É PRECISO TER TÉCNICA!&nbsp;</div>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content6-22",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>E é isso que você aprenderá no <b>Curso de Formação de Consultores em Treinamento e Desenvolvimento.</b></p><p>Em um mercado tão instável, as empresas precisam de profissionais que possam ajudá-las a sair da crise.</p><p>Para que isso aconteça, milhares de empresas vêm procurando ajuda de consultores que podem levar sua experiências a valores muito bem remunerados.</p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Antigamente um consultor de treinamento precisava ter muitos anos de experiência e um histórico de conquistas.</span><br></p><p>Agora, a técnica fala mais alto. </p><p>Não perca essa oportunidade e inscreva-se para conhecer os principais passos para se desenvolver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">na profissão.</span></p><p><br></p>"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             },
@@ -658,6 +618,25 @@
           },
           "title": "O treinamento mais completo para uma das profissões que vem sendo mais requisitadas pelo mercado!",
           "caption": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Para ser consultor em treinamento, não basta experiência. &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">É preciso ter técnica!</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">E é isso que você aprenderá no </span><b style=\"font-size: 1.07rem; line-height: 1.5;\">Curso de Formação de Consultores em Treinamento e Desenvolvimento.</b></p><p>Em um mercado tão instável, as empresas precisam de profissionais que possam ajudá-las a sair da crise.</p><p>Para que isso aconteça, milhares de empresas vêm&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">procurando ajuda de consultores que podem levar</span></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">sua experiências a valores muito bem remunerados. Antigamente um consultor de treinamento precisava ter muitos anos de experiência e um histórico de conquistas.</span><br></p><p>Agora, a técnica fala mais alto. </p><p>Não perca essa oportunidade e inscreva-se para conhecer os principais passos para se desenvolver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">na profissão.</span></p><p><br></p>"
         },
         {
           "_inherit": "features1",

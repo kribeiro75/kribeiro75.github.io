@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -459,11 +460,15 @@ h6,
   color: #232323;
 }
 #form1-6 SMALL {
-  color: #24b392;
+  color: #000000;
   font-size: 20px;
 }
 #form1-6 .mbr-section-title {
   color: #e25041;
+}
+#form1-6 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
 }
 #social-buttons4-1e .mbr-section-title,
 #social-buttons4-1e .btn-social {
@@ -539,19 +544,6 @@ h6,
 #menu-1 .close-icon::after {
   background-color: #ffffff;
 }
-#header3-21 .mbr-section-title,
-#header3-21 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-21 DIV {
-  font-size: 32px;
-}
-#header3-21 H3 {
-  font-size: 32px;
-}
-#content6-22 P {
-  text-align: left;
-}
 #content5-23 .mbr-section-title,
 #content5-23 p {
   color: #fff;
@@ -561,6 +553,9 @@ h6,
 }
 #content5-23 .mbr-section-title {
   font-size: 36px;
+}
+#content6-22 P {
+  text-align: left;
 }
 #features2-24 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
